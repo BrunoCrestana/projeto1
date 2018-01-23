@@ -1,0 +1,31 @@
+body{
+  margin:0;
+}
+
+.diferente{
+  font-size: 30px;
+  font-family: 'Risque', cursive;
+  color: red;
+  padding-left: 30px;
+  background-color: #4286f4;
+  text-decoration: underline;
+}
+
+#lista{
+  font-size: 20px;
+  font-weight: bold;
+  color: red;
+}
+
+img{
+  width: 200px;
+  height: 200px;
+}
+
+.botao1{
+  background-color: green;
+  font-weight: bold;
+  font-size: 25px;
+  padding: 20px;
+  text-align: center;
+}
